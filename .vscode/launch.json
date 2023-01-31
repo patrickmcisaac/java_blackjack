@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Blackjack",
+            "request": "launch",
+            "mainClass": "Blackjack",
+            "projectName": "java_blackjack_fb883a5e"
+        },
+        {
+            "console": "internalConsole"
+        }
+    ]
+}
